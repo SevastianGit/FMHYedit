@@ -1440,7 +1440,6 @@
 * [rsload](https://rsload.net/) - Software / Android / Games
 * [Alpha-AG](https://www.alpha-ag.ru/) - Software / Android / Games
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books 
-* [KinoGo](https://kinogo.la/), [2](zerkalo.kinogo.lu) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Allmults](https://allmults.org/) - Cartoons
 * [CyberShara](https://cybershara.ru/) - PSP ROMs
 * [tancpol](https://tancpol.net/) - MP3
@@ -1502,7 +1501,7 @@
 * [Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/) - Movies / Anime
 * [baskino](http://baskino.me/) - Movies
 * [Gidonline](https://gidonline.io/) - Movies
-* [Kinogo](https://kinogo.la/), [2](https://kinogo-net.org/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
+* [KinoGo](https://kinogo.la/), [2](zerkalo.kinogo.lu) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [NotAlone](https://www.notalone.tv/) - Movies / TV
 * [kinokong](https://kinokong.org/) - Movies / TV
